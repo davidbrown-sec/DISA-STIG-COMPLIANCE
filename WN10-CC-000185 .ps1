@@ -1,7 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script ensures that Windows 10 account lockout duration be configured to 15 minutes or greater.
-
+The default autorun behavior must be configured to prevent autorun commands.
 .NOTES
     Author          : David Brown
     LinkedIn        : linkedin.com/in/david-benton-brown/
@@ -23,7 +22,7 @@
     Put any usage instructions here.
     # Requires: Admin privileges
     Example syntax:
-    PS C:\> .\__remediation_template(STID-ID-WN10-AC-000005).ps1 
+    PS C:\> .\__remediation_template(STID-ID-WN10-CC-000185).ps1 
 #>
 
 # Script Name: Set-NoAutorun.ps1
