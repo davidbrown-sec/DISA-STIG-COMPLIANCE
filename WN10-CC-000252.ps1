@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    Printing over HTTP must be prevented.
+   
 
 .NOTES
     Author          : David Brown
