@@ -1,7 +1,7 @@
 <#
 .SYNOPSIS
-   
-
+    # Description: Ensures GameDVR is disabled via registry setting.
+    # This mitigates potential privacy concerns by preventing the recording of user sessions.
 .NOTES
     Author          : David Brown
     LinkedIn        : linkedin.com/in/david-benton-brown/
@@ -26,10 +26,6 @@
     PS C:\> .\__remediation_template(STID-ID- # STIG ID:WN10-CC-000252).ps1 
 #>
 # STIG ID: WN10-CC-000252
-# Description: Ensures GameDVR is disabled via registry setting.
-# This mitigates potential privacy concerns by preventing the recording of user sessions.
-
-# PowerShell Script to remediate WN10-CC-000252
 # This is not applicable for Windows 10 LTSC/B versions 1507 and 1607
 
 # Define registry path and value
