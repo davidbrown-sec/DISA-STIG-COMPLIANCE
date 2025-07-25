@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-  Disable clipboard redirection in RDP
+  Local drives must be prevented from sharing with Remote Desktop Session Hosts.
 
 .NOTES
     Author          : David Brown
