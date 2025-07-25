@@ -25,8 +25,6 @@
     Example syntax:
     PS C:\> .\__remediation_template(STID-ID- # STIG ID:WN10-CC-000350).ps1 
 #>
-
-# Define registry path and value
 try {
     # Define registry path and value name
     $registryPath = "HKLM:\SOFTWARE\Policies\Microsoft\Windows\WinRM\Service"
