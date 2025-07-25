@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-   Kerberos encryption types must be configured to prevent the use of DES and RC4 encryption suites.
+   Windows 10 must be configured to prevent certificate error overrides in Microsoft Edge
 
 .NOTES
     Author          : David Brown
